@@ -4,7 +4,7 @@ import {
 } from "@reduxjs/toolkit"
 import axios from "axios";
 
-const apiUrl = 'http://localhost:4000/products';
+const apiUrl = 'http://localhost:5000/products';
 
 export const fetchCategories = createAsyncThunk('categories/fetchCategories', async () => {
     const response = await axios.get(apiUrl)

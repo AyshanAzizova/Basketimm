@@ -1,52 +1,52 @@
 {
-    "products":[
-        {
-            "id":1,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/4.jpg?v=1660623210",
-            "name": "Pizza Hut",
-            "price": 23.00
-        },
-        {
-            "id":2,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/7.jpg?v=1660623200",
-            "name": "Mixed Vegetables",
-            "price": 20.00
-        },
-        {
-            "id":3,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/8.jpg?v=1660623196",
-            "name": "Hamburgers",
-            "price": 20.00
-        },
-        {
-            "id":4,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/10.jpg?v=1660623189",
-            "name": "Shawarma Kati",
-            "price": 20.00
-        },
-        {
-            "id":5,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/11.jpg?v=1660623186",
-            "name": "Shish Kebab Pizza",
-            "price": 21.00
-        },
-        {
-            "id":6,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/13.jpg?v=1660623179",
-            "name": "Pepperoni Pizza",
-            "price": 26.00
-        },
-        {
-            "id":7,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/14.jpg?v=1660623176",
-            "name": "Marinated Chicken",
-            "price": 28.00
-        },
-        {
-            "id":8,
-            "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/16.jpg?v=1660623172",
-            "name": "Sushi Sashimi",
-            "price": 20.00
-        }
-    ]
+  "products": [
+    {
+      "id": "1",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/4.jpg?v=1660623210",
+      "name": "Pizza Hut",
+      "price": 23
+    },
+    {
+      "id": "2",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/7.jpg?v=1660623200",
+      "name": "Mixed Vegetables",
+      "price": 20
+    },
+    {
+      "id": "3",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/8.jpg?v=1660623196",
+      "name": "Hamburgers",
+      "price": 20
+    },
+    {
+      "id": "4",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/10.jpg?v=1660623189",
+      "name": "Shawarma Kati",
+      "price": 20
+    },
+    {
+      "id": "5",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/11.jpg?v=1660623186",
+      "name": "Shish Kebab Pizza",
+      "price": 21
+    },
+    {
+      "id": "6",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/13.jpg?v=1660623179",
+      "name": "Pepperoni Pizza",
+      "price": 26
+    },
+    {
+      "id": 7,
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/14.jpg?v=1660623176",
+      "name": "Marinated Chicken",
+      "price": 28.00
+    },
+    {
+      "id": "8",
+      "image": "https://fone-store-demo.myshopify.com/cdn/shop/products/16.jpg?v=1660623172",
+      "name": "Sushi Sashimi",
+      "price": 20
+    }
+  ]
 }
